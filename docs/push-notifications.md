@@ -1,0 +1,1 @@
+Push Notification Service — Spec. Trigger real-time push notifications when water quality readings from Agua IoT sensors drop below configurable safe thresholds. Supports iOS (APNs) and Android (FCM). Users can customise alert sensitivity per device in the app settings.
