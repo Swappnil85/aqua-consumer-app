@@ -1,0 +1,1 @@
+Household Member Management — Allow primary account holders to invite family members via email. Invited members get scoped access to specific devices. Supports roles: Owner, Adult, Child (restricted). Maximum 8 members per household.
