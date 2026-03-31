@@ -1,0 +1,1 @@
+Sensor Pairing Fix — Android 14 introduces stricter Bluetooth runtime permission handling that causes intermittent handshake drops with Agua IoT sensors. Fix involves retrying the GATT connection with an exponential backoff and requesting BLUETOOTH_CONNECT permission before initiating pairing.
